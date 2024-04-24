@@ -1,0 +1,30 @@
+{
+  "name": "sarvsevak",
+  "version": "1.0.0",
+  "description": "Simple, minimal nodeJS server",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@hardik88t.github.com:hardik88t/sarvsevak.git"
+  },
+  "homepage": "https://github.com/hardik88t/sarvsevak",
+  "keywords": [
+    "server",
+    "nodejs",
+    "http",
+    "web",
+    "rest",
+    "restful",
+    "router",
+    "app",
+    "api"
+  ],
+  "author": "hardik88t",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
